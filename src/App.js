@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Selene CTI - Coming Soon
+          Selene CTI - Coming soon!
         </a>
       </header>
     </div>
