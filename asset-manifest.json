@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/selene-poc/static/css/main.3843b252.css",
-    "main.js": "/selene-poc/static/js/main.fd5a0144.js",
+    "main.js": "/selene-poc/static/js/main.595d1259.js",
     "static/js/787.d990071d.chunk.js": "/selene-poc/static/js/787.d990071d.chunk.js",
-    "static/media/logo.svg": "/selene-poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Selene-logo-nobg.png": "/selene-poc/static/media/Selene-logo-nobg.7c9f5fe59c43d3347458.png",
     "index.html": "/selene-poc/index.html",
     "main.3843b252.css.map": "/selene-poc/static/css/main.3843b252.css.map",
-    "main.fd5a0144.js.map": "/selene-poc/static/js/main.fd5a0144.js.map",
+    "main.595d1259.js.map": "/selene-poc/static/js/main.595d1259.js.map",
     "787.d990071d.chunk.js.map": "/selene-poc/static/js/787.d990071d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3843b252.css",
-    "static/js/main.fd5a0144.js"
+    "static/js/main.595d1259.js"
   ]
 }
