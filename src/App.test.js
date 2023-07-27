@@ -1,5 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
+import'./fonts/josefine-sans/static/JosefineSans-Bold.ttf'
 
 test('renders learn react link', () => {
   render(<App />);
