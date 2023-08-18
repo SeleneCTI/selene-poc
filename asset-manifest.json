@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/selene-poc/static/css/main.893f76d3.css",
-    "main.js": "/selene-poc/static/js/main.18978151.js",
+    "main.css": "/selene-poc/static/css/main.5cd3d103.css",
+    "main.js": "/selene-poc/static/js/main.bc8a01de.js",
     "static/js/787.d990071d.chunk.js": "/selene-poc/static/js/787.d990071d.chunk.js",
+    "static/media/DTU-Selene_report2.pdf": "/selene-poc/static/media/DTU-Selene_report2.515e2f83f6a37b88c472.pdf",
     "static/media/Selene-logo-nobg.png": "/selene-poc/static/media/Selene-logo-nobg.7c9f5fe59c43d3347458.png",
+    "static/media/pastebin-screenshot.png": "/selene-poc/static/media/pastebin-screenshot.8997f9a505be07b564e0.png",
+    "static/media/drivinglicense_darkweb.png": "/selene-poc/static/media/drivinglicense_darkweb.202ce59c6a436d1054e5.png",
+    "static/media/bank_lol.png": "/selene-poc/static/media/bank_lol.c34ad3ddd0cd899fd413.png",
     "static/media/JosefinSans-Bold.ttf": "/selene-poc/static/media/JosefinSans-Bold.0ec6d05a9917d9c58519.ttf",
     "index.html": "/selene-poc/index.html",
-    "main.893f76d3.css.map": "/selene-poc/static/css/main.893f76d3.css.map",
-    "main.18978151.js.map": "/selene-poc/static/js/main.18978151.js.map",
+    "main.5cd3d103.css.map": "/selene-poc/static/css/main.5cd3d103.css.map",
+    "main.bc8a01de.js.map": "/selene-poc/static/js/main.bc8a01de.js.map",
     "787.d990071d.chunk.js.map": "/selene-poc/static/js/787.d990071d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.893f76d3.css",
-    "static/js/main.18978151.js"
+    "static/css/main.5cd3d103.css",
+    "static/js/main.bc8a01de.js"
   ]
 }
