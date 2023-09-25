@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/selene-poc/static/css/main.dff4823a.css",
-    "main.js": "/selene-poc/static/js/main.8a3f8d30.js",
+    "main.js": "/selene-poc/static/js/main.a9bfaddd.js",
     "static/js/787.d990071d.chunk.js": "/selene-poc/static/js/787.d990071d.chunk.js",
     "static/media/selene_logo-re.png": "/selene-poc/static/media/selene_logo-re.3bbd95caa9a50ffd0d65.png",
     "static/media/DTU-Selene_report2.pdf": "/selene-poc/static/media/DTU-Selene_report2.ad957ea547abfe9297cf.pdf",
@@ -11,11 +11,11 @@
     "static/media/JosefinSans-Bold.ttf": "/selene-poc/static/media/JosefinSans-Bold.0ec6d05a9917d9c58519.ttf",
     "index.html": "/selene-poc/index.html",
     "main.dff4823a.css.map": "/selene-poc/static/css/main.dff4823a.css.map",
-    "main.8a3f8d30.js.map": "/selene-poc/static/js/main.8a3f8d30.js.map",
+    "main.a9bfaddd.js.map": "/selene-poc/static/js/main.a9bfaddd.js.map",
     "787.d990071d.chunk.js.map": "/selene-poc/static/js/787.d990071d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dff4823a.css",
-    "static/js/main.8a3f8d30.js"
+    "static/js/main.a9bfaddd.js"
   ]
 }
